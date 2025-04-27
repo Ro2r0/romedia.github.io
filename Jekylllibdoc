@@ -10,32 +10,32 @@
                 data-detector="detector-w1"
                 data-opacity="|0:1 to 98:1 to 100:0|"
                 data-transform="scale(|0:1 to 98:1 to 100:2|)"
-                data-letter-spacing="|0:-0.05 to 100:0|em">Scroll down</span>
+                data-letter-spacing="|0:-0.05 to 100:0|em">Bonjour</span>
         <span scroll-btween="w2"
                 data-detector="detector-w2"
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|"
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)"
-                data-letter-spacing="|0:-0.1 to 100:0|em">This is a</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">Hello</span>
         <span scroll-btween="w3"
                 data-detector="detector-w3"
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|"
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)"
-                data-letter-spacing="|0:-0.1 to 100:0|em">playground</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">Lonè</span>
         <span scroll-btween="w4"
                 data-detector="detector-w4"
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|"
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)"
-                data-letter-spacing="|0:-0.1 to 100:0|em">example</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">RoMEDIA</span>
         <span scroll-btween="w5"
                 data-detector="detector-w5"
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|"
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)"
-                data-letter-spacing="|0:-0.1 to 100:0|em">with its</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">en action</span>
         <span scroll-btween="w6"
                 data-detector="detector-w6"
                 data-opacity="|0:0 to 2:1 to 98:1 to 100:0|"
                 data-transform="scale(|0:0 to 2:1 to 98:1 to 100:2|)"
-                data-letter-spacing="|0:-0.1 to 100:0|em">own settings</span>
+                data-letter-spacing="|0:-0.1 to 100:0|em">pour vous aider.</span>
     </p>
 </article>
 <div id="detector-w1" class="detector">&nbsp;</div>
